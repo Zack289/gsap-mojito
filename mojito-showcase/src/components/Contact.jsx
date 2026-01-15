@@ -1,5 +1,5 @@
 import React from 'react'
-import { openingHours, socials } from '../constants'
+import { openingHours, socials } from '../../constants'
 import { useGSAP } from '@gsap/react'
 import { SplitText } from 'gsap/all'
 import gsap from 'gsap'
