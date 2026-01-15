@@ -1,6 +1,6 @@
 import gsap from 'gsap';
 import  { useRef, useState } from 'react'
-import { sliderLists } from '../constants'
+import { sliderLists } from '../../constants'
 import { useGSAP } from '@gsap/react';
 
 function Menu() {
